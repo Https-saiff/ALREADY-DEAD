@@ -1,7 +1,7 @@
 {
-  "name": "knightbot",
+  "name": "𝙰𝙻𝚁𝙴𝙰𝙳𝚈 𝙳𝙴𝙰𝙳",
   "version": "1.0.0",
-  "description": "WhatsApp Bot",
+  "description": "𝙰𝙻𝚁𝙴𝙰𝙳𝚈 𝙳𝙴𝙰𝙳",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -16,9 +16,9 @@
     "docker:build": "docker build -t docker run -e SESSION_ID=$SESSION_ID knightbot"
   },
   "keywords": [
-    "whatsapp-bot"
+    "𝙰𝙻𝚁𝙴𝙰𝙳𝚈 𝙳𝙴𝙰𝙳"
   ],
-  "author": "",
+  "author": "osis.aif",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
